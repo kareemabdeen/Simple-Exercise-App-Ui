@@ -2,7 +2,7 @@
 
 "A new Flutter project."
 
-## App ui
+## App OverView ui
 ###  Home Page
 ![Screenshot_20240418-220628](https://github.com/kareemabdeen/Simple-Exercise-App-Ui/assets/118139061/7a29e162-5742-4400-ba38-f5de231b45fb)
 
