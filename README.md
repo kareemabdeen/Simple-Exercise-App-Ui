@@ -2,7 +2,12 @@
 
 "A new Flutter project."
 
-## Getting Started
+## App ui
+###  Home Page
+![Screenshot_20240418-220628](https://github.com/kareemabdeen/Simple-Exercise-App-Ui/assets/118139061/7a29e162-5742-4400-ba38-f5de231b45fb)
+
+###  Meditation Page
+![Screenshot_20240418-220638](https://github.com/kareemabdeen/Simple-Exercise-App-Ui/assets/118139061/9712d9f4-8ee7-4e98-ae35-8c0d533d54e3)
 
 This project is a starting point for a Flutter application.
 
